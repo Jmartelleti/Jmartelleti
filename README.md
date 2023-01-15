@@ -19,11 +19,8 @@
 
 
 - 💻 &nbsp; Python| C++| SQL
-- 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-
-<!--
 
 - 🛢 &nbsp; MySQL | MongoDB|flask | Django
 
