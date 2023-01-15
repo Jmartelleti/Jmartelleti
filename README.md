@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jmartelleti&show_icons=true)](https://github.com/sJmartelleti)
+[![Jmartelleti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jmartelleti&show_icons=true)](https://github.com/Jmartelleti)
 
 <br/>
 
