@@ -8,11 +8,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying programming and mechanical engineering. Looking to unite them in the future.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
 
@@ -20,17 +18,16 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python| C++| SQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git |
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 -->
 
@@ -38,7 +35,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | Django
 
 <hr>
 
@@ -46,7 +43,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jmartelleti&show_icons=true)](https://github.com/sJmartelleti)
 
 <br/>
 
@@ -70,13 +67,9 @@
 
 
 
-<p align="center">
-
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/juan-cruz-martelleti-677ba2129/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martelleti%20JuanCruz-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:juanmartelleti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanmartelleti@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
