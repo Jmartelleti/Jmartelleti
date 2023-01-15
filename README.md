@@ -36,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | Django
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase
 
 <hr>
 
