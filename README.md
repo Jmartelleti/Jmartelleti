@@ -22,7 +22,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
-- 🛢 &nbsp; SQL | MongoDB | flask | Django
+- 🛢 &nbsp;MongoDB | flask | Django
 
 - 🔧 &nbsp; Git | Gnu Linux
 
