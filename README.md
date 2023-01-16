@@ -36,9 +36,6 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase
 
 <hr>
-
-
-
 <br/><br/>
 
 [![Jmartelleti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmartelleti&show_icons=true)](https://github.com/jmartelleti)
@@ -47,7 +44,7 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='left'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartelleti&show_icons=true)
 
